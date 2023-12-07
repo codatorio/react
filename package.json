@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build && tsc"
+  },
+  "author": "Alex Machado <alex@boideia.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.6"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
